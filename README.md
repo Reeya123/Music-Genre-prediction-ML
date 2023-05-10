@@ -1,6 +1,6 @@
 # Machine-Learning_CSCI_6364_80
 Machine Learning Final Project
-### Title: Title: Music Genre Prediction
+### Title: Music Genre Prediction
 
 "Music Genre Prediction" aims to classify and predict the genre of a given song and categorizes music into different genres using machine learning algorithms. 
 
